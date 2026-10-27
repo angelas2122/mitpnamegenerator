@@ -4,17 +4,17 @@ body {
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 3rem;
 }
 
 h2 {
-  font-size: 1rem;
+  font-size: 1.5rem;
   margin-top: 1.5rem;
 }]
 
 p {
-  font-size: 1.5rem;
-  margin-top: 2rem;
+  font-size: 2rem;
+  margin-top: 3rem;
 }
 
 button {
@@ -34,5 +34,5 @@ button:hover {
 
 .logo {
   display: block;
-  margin: 20px auto;
+  margin: 15px auto;
 }
